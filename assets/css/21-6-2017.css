@@ -1,0 +1,140 @@
+      .col-image img
+      {
+         width: 100%;
+      }
+		.con{
+			padding: 45px;
+		}
+		.nn{
+			/*padding-left: 287px;*/
+			font-size: 15px;
+			border-color: rgba(255,255,255,.2);
+			background-color:rgba(162, 14, 0, 1);
+		}
+		.navbar-inverse .navbar-nav>li>a {
+        color: white;
+}
+.img{
+	margin-top: -21px;
+
+}
+.bac{
+	background-image: url(../images/01.png);
+}
+.bac1{
+   background-image: url(../images/01.png);
+  /* height: 660px;*/
+
+}
+.bac2{
+   background-image: url(../images/01.png);
+ /*  height: 450px;*/
+
+}
+.h1f{
+   color: white;
+   text-align: center;
+   padding: 170px;
+   position: relative;
+    background-color: rgba(0,0,0,.55);    
+    text-transform: uppercase;
+}
+.h2f{
+   color: white;
+   padding: 81px;
+    background-color: rgba(136, 24, 24, 0.55);    
+    text-transform: uppercase;
+}
+.top{
+	margin-top: 80px;
+	margin-bottom: 80px;
+	
+}
+.h1{
+	font-size: 4.8rem;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.four{
+background-color: #eee;
+}
+.fourth{
+	background-image: url(../images/06.png);
+}
+.rm{
+	 background-color:#AE1E04;
+   border-color: #AE1E04;
+    border-radius: 22px;
+    padding: 13px 23px 15px; 
+    color: #fff;
+   margin:0 0 0 3.06748466257669%;
+}
+.rm1{
+   background-color:#AE1E04;
+   border-color: #AE1E04;
+    border-radius: 22px;
+    padding: 13px 23px 15px; 
+    color: #fff;
+   margin:0 0 0 3.06748466257669%;
+}
+.m{
+	font-family: initial;
+   letter-spacing: 5px;
+   font-size: 26px;
+   line-height: 1;
+	}
+   .pn{
+      padding-top: 52px;
+    /*padding-right: 806px;*/
+    color:  rgba(255,255,255,.5);
+   }
+   .p2{
+      margin-bottom: 75px;
+   }	
+   .fc{
+      height:150px;
+   }
+   .tbc{
+      background-color: #F1F0ED;
+      padding:20px;
+      border-bottom: 1px solid;
+   }
+   .tbc2{
+       
+      background-color: #F1F0ED;
+      padding:20px;
+      border-bottom: 1px solid;
+   }
+   .colw{
+    width: 30.333333%;
+   }
+   .sixth{
+    font-size: 17px;
+    font-family: initial;
+}
+.lpl{
+   margin-top: -13px;
+    font-size: 11px;
+}
+.footer{
+   background-image: url(../images/footer.png);
+   background-color:  rgba(0,0,0,.55); 
+   height: 500px;
+}
+.ftext{
+   color: white;
+    margin-top: 57px;
+}
+.fpp{
+  margin-top: 100px;
+}
+.fp{
+   margin-top:70px;
+}
+.backfooter{
+   margin-left: -15px;
+    margin-right: -15px;
+    color: white; 
+    background-color: rgba(58, 60, 55, 0.28);
+     height: 71px;
+}
